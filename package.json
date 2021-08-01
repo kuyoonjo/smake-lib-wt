@@ -18,7 +18,9 @@
     "js"
   ],
   "files": [
-    "lib"
+    "lib",
+    "wt/include",
+    "MPMCQueue/include"
   ],
   "main": "lib/index",
   "types": "lib/index",
