@@ -1,0 +1,6 @@
+[submodule "wt"]
+	path = wt
+	url = https://github.com/kuyoonjo/cpp-wt.git
+[submodule "MPMCQueue"]
+	path = MPMCQueue
+	url = https://github.com/rigtorp/MPMCQueue.git
